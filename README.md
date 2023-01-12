@@ -1,5 +1,5 @@
 # MovingCar
-### This is a one day mini project where I implemented a Moving car using HTML CSS and JAVASCRIPT 
+### This is a one of the mini project where I implemented a Moving car using HTML CSS and JAVASCRIPT 
 
 ## [Deployed URL](https://car-verce-rohit.vercel.app/)
 
