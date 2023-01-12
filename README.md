@@ -1,7 +1,7 @@
 # MovingCar
 ### This is a one day mini project where I implemented a Moving car using HTML CSS and JAVASCRIPT 
 
-## [Deployed URL](https://shimmering-moonbeam-540cbd.netlify.app/)
+## [Deployed URL](https://car-verce-rohit.vercel.app/)
 
 
 ### Here is two button one for changing the car and another is for Start and Stop
