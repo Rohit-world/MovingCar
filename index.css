@@ -90,7 +90,7 @@ body {
 }
 .surface {
   height: 185px;
-  width: 10000%;
+  width: 500%;
   display: block;
   background: url("./assets/desert.png");
   position: absolute;
@@ -100,6 +100,8 @@ body {
   animation: MoveRight 8s linear infinite;
 
   filter: brightness(15%);
+ 
+  
  
 }
 
@@ -162,7 +164,7 @@ body {
   animation: suspension 1s linear infinite;
 }
 .car img {
-  max-height: 90px;
+  max-height: 40px;
   opacity: 1;
   filter: brightness(65%);
 
@@ -184,6 +186,9 @@ body {
  .buttons button{
   font-size: xx-small;
   padding: 8px 4px;
+ }
+ .surface{
+  width: 10000%;;
  }
 }
 
